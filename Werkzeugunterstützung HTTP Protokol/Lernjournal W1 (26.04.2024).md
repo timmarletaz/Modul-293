@@ -52,7 +52,7 @@ Man muss jedoch alle Tags selber schreiben.
 ## Begriffe / Tags
 
 **`<DOCTYPE html>`**
-"DOCTYPE HTML" ist der Tag der die Verwendung von HTML5 (neuste HTML Version) festlegt.
+> "DOCTYPE HTML" ist der Tag der die Verwendung von HTML5 (neuste HTML Version) festlegt.
 
 <br>
 
