@@ -4,16 +4,16 @@
 
 ## Aktivitäten
 
-> - Heute wurden wir als erstes von Herrn Brodbeck in das Moduk 293 eingeführt. Wir erhielten alle wichtigen Informationen zum Modul uns stellten uns kurz vor. 
+- Heute wurden wir als erstes von Herrn Brodbeck in das Moduk 293 eingeführt. Wir erhielten alle wichtigen Informationen zum Modul uns stellten uns kurz vor. 
 <br>
 
-> - Nach der grossen Pause erhielten wir den ersten Auftrag. Man sollte sich in 2er Gruppen (jemand mit Kentnissen und jemand ohne) zusammentun und eine Webseite, welche auf Papier als Code und als Darstellung ausgeteilt wurde, analysieren. Wir sollten dazu herausfinden, welche Angaben man sieht und welche nicht. (Siehe Aufträge)
+- Nach der grossen Pause erhielten wir den ersten Auftrag. Man sollte sich in 2er Gruppen (jemand mit Kentnissen und jemand ohne) zusammentun und eine Webseite, welche auf Papier als Code und als Darstellung ausgeteilt wurde, analysieren. Wir sollten dazu herausfinden, welche Angaben man sieht und welche nicht. (Siehe Aufträge)
 <br>
 
-> - Jetzt gingen wir im Plenum eine vorbereitete Einführung von Herrn Brodbeck durch, wo er uns die wichtigsten Tools/Plugins in der IDE (Integrated Developement Environment) Visual Studio Code zeigte.
+- Jetzt gingen wir im Plenum eine vorbereitete Einführung von Herrn Brodbeck durch, wo er uns die wichtigsten Tools/Plugins in der IDE (Integrated Developement Environment) Visual Studio Code zeigte.
 <br>
 
-> - Die letzte Stunde durften wir dann noch an den Kompetenzbereichen anfangen zu arbeiten.
+- Die letzte Stunde durften wir dann noch an den Kompetenzbereichen anfangen zu arbeiten.
 
 <br>
 <br>
