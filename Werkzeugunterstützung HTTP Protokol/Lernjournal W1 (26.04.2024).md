@@ -4,6 +4,8 @@
 
 ## Aktivitäten
 
+<br>
+
 - Heute wurden wir als erstes von Herrn Brodbeck in das Moduk 293 eingeführt. Wir erhielten alle wichtigen Informationen zum Modul uns stellten uns kurz vor. 
 <br>
 
