@@ -139,4 +139,4 @@ Die Ressource welche im Cache abgespeichert werden, werden mit einer TTL (Time T
 
 > Jeder kennt sie, die nervigen Cookie-Nachrichten die immer aufpopen, wenn man eine Webseite öffnet, doch für was sind diese eigentlich da?
 
-Cookies werden verwendet um verschiedene, individuelle Benutzerdaten zu speichern.
+Cookies werden verwendet um verschiedene, individuelle Benutzerdaten zu speichern. ---> In Woche 3 beenden
