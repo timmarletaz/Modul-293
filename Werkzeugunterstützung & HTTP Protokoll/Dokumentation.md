@@ -2,7 +2,7 @@
 
 <br>
 
-## Technische Grundlagen (E)
+## Technische Grundlagen (F)
 <br>
 
 ![Technische Grundlagen](/Sonstiges/imgs/TechnischeGrundlagen.jpg)
