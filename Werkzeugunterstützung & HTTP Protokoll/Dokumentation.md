@@ -109,7 +109,7 @@ Header sind Teil des Anfrage- und Antwortprozesses. Der Header enthält dabei z.
 
 <br>
 
-Im Body befindet sich der eigentliche Inhalt der Nachricht. Wie bereits erwähnt wird da z.B. die Daten von einem Formular gesendet. Diese werden meistens z.B. in einem JSON-Format (Strukturiertes Format) gesendet, welches aus den Name-Attributen des HTML-Formulars z.B. gebildet wird. Der Server kann diese Daten dann einlesen.
+Im Body befindet sich der eigentliche Inhalt der Nachricht. Wie bereits erwähnt wird da z.B. die Daten von einem Formular gesendet. Diese werden meistens in einem JSON-Format (Strukturiertes Format) gesendet, welches aus den Name-Attributen des HTML-Formulars gebildet wird. Der Server kann diese Daten dann einlesen.
 
 <br>
 
