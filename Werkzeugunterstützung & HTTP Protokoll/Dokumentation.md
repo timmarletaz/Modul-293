@@ -139,4 +139,18 @@ Die Ressource welche im Cache abgespeichert werden, werden mit einer TTL (Time T
 
 > Jeder kennt sie, die nervigen Cookie-Nachrichten die immer aufpopen, wenn man eine Webseite öffnet, doch für was sind diese eigentlich da?
 
-Cookies werden verwendet um verschiedene, individuelle Benutzerdaten zu speichern. ---> In Woche 3 beenden
+Cookies werden verwendet um verschiedene, individuelle Benutzerdaten zu speichern. Sie helfen dabei die "Experience" einer Webseite für den Benutzer zu personalisieren. Cookies setzt man ein, um z.B. Login-Informationen, Geräte und Einkaufswägen zu speichern, um sich bei einem nächsten Besuch an diese Informationen zu "errinern", sodass z.B. der User sich nicht jedes mal neu anmelden muss.
+Diese Informationen werden innert einer Textdatei gespeichert und werden vom Server bei der Verbindung erstellt. Diese Daten sind mit einer für den Client-Computer eindeutigen ID gekennzeichnet. 
+Die, zum Benutzer dazugehörende Textdatei wird dann auf seine ID gespeichert. Bei einem nächsten Besuch der Webseite übermittelt der Client automatisch seine ID an den Server, welcher dann genau weiss, welche Ressourcen / Informationen er speziell für den Client bereitstellen muss.
+
+<br>
+
+**HTTP-Cookies** sind eine für den Browser entwickelte Art von Cookies. Sie werden eingesetzt um Informationen über die einzelnen "Sitzungen" des Benutzers zu speichern. Unter einer Sitzung (eng. session) versteht man die Zeit, die man auf einer spezifischen Webseite verbringt (jede Sitzung/session erhält zudem ihre eigene, eindeutige ID, die zwischen dem Server und dem Client gegenseitig übermittelt werden).
+Der Webserver, der die Daten der Website speichert, sendet einen Strom von Informationen in Form von Cookies an den Webbrowser des Clients. 
+Diese Daten werden vom Webbrowser Lokal gespeichert und beim nächsten Besuch wieder an den Webserver übermittelt.
+
+
+<br>
+
+
+![HTTP-Cookies](/Sonstiges/imgs/HTTP-Cookies.png)
