@@ -155,7 +155,4 @@ Diese Daten werden vom Webbrowser Lokal gespeichert und beim nächsten Besuch wi
 
 ![HTTP-Cookies](/Sonstiges/imgs/HTTP-Cookies.png)
 > Ein Beispiel für ein HTTP Cookie.
-
-<br>
-
-Weitere Informationen, welche mehr auf den technischen Aspekt dieser Cookies eingehen, findet man unter [Microsoft-Learning](https://learn.microsoft.com/de-de/aspnet/web-api/overview/advanced/http-cookies)
+**Weitere Informationen, welche mehr auf den technischen Aspekt dieser Cookies eingehen, findet man unter [Microsoft-Learning](https://learn.microsoft.com/de-de/aspnet/web-api/overview/advanced/http-cookies)**
