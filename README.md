@@ -5,4 +5,4 @@
 
 <hr>
 
-![Bild HTML](/09_Sonstiges/imgs/html.jpeg)
+![Bild HTML](/Sonstiges/imgs/html.jpeg)
