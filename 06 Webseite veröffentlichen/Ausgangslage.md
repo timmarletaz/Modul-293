@@ -8,6 +8,8 @@
 
 - Ich weiss wie man eine Webseite automatisiert veröffentlicht, da ich dies in der Vergangenheit schon des Öfteren getan habe.
 
+- Mit SEO und Lighthouse kenne ich mich noch nicht sehr gut aus. Die Dokumentation zu diesem Lernprozess findet man in der (Wissensbasis)[Wissensbasis.md ]
+
 <br>
 <br>
 
