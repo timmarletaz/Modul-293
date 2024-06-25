@@ -6,8 +6,9 @@
 ## Webseite aufbauen
 <br>
 
-- Ich besitze bereits relativ viel Erfahrung im Bereich Webseitenaufbau.
-- Auch die Fähigkeit ein HTML-Formular aufzubauen und zu gestalten besitze ich.
+- Ich besitze bereits Erfahrung im Bereich Webseitenaufbau.
+
+- Zudem besitze ich die Fähigkeit ein komplexes HTML-Formular aufzubauen und zu gestalten, weil ich in der Vergangenheit dies schon öfter in Webseiten eingebaut habe.
 
 <br>
 <br>
