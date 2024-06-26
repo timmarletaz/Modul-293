@@ -1,4 +1,5 @@
-# Dokumentation
+# Kompetenzzuwachs
+
 
 <br>
 
@@ -69,6 +70,6 @@ Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da die
 
 <br>
 <br>
-<br>
 
-**Rest Siehe Webseite**
+ > Weitere Informationen zu Multimedia-Tags findet man auf folgender [Webseite](https://www.almabetter.com/bytes/tutorials/html/multimedia-in-html)
+

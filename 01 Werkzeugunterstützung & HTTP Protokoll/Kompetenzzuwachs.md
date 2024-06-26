@@ -1,6 +1,8 @@
-# Dokumentation
+# Kompetenzzuwachs
+
 
 <br>
+
 
 ## Technische Grundlagen (E2)
 <br>
@@ -23,7 +25,8 @@ Es werden allerdings auch viele andere Dateien mitgegeben (z.B. stylesheets oder
 
 ![Bild](/Sonstiges/imgs/baloisecom.png)
 <br>
-> Hier sieht man alle Dateien die bei [Baloise.com](https://www.baloise.com) geladen werden.
+
+    Hier sieht man alle Dateien die bei [Baloise.com](https://www.baloise.com) geladen werden.
 
 
 
@@ -45,6 +48,7 @@ GET und POST sind HTTP Methoden, welche für die Kommunikation z.B. mit einem Se
 GET ist aus dem englischen und heisst nichts anderes als "holen" oder "bekommen".
 Das heisst mit der Methode GET wird eine Ressource vom Server/o.ä. geholt.
 <br>
+    
 Wenn man z.B. an die URL einen Such-Parameter anhängt, z.B. ``https://www.bbzbl.ch/?s=Stundenplan``, wird dies mithilfe der GET-Methode abgerufen, da man eine Ressource vom Server erhalten möchte. Auch das Laden einer Seite erfolgt über dies.
 
 <br>
@@ -137,7 +141,9 @@ Die Ressource welche im Cache abgespeichert werden, werden mit einer TTL (Time T
 
 <br>
 
-> Jeder kennt sie, die nervigen Cookie-Nachrichten die immer aufpopen, wenn man eine Webseite öffnet, doch für was sind diese eigentlich da?
+    Jeder kennt sie, die nervigen Cookie-Nachrichten die immer aufpopen, wenn man eine Webseite öffnet, doch für was sind diese eigentlich da?
+
+<br>
 
 Cookies werden verwendet um verschiedene, individuelle Benutzerdaten zu speichern. Sie helfen dabei die "Experience" einer Webseite für den Benutzer zu personalisieren. Cookies setzt man ein, um z.B. Login-Informationen, Geräte und Einkaufswägen zu speichern, um sich bei einem nächsten Besuch an diese Informationen zu "errinern", sodass z.B. der User sich nicht jedes mal neu anmelden muss.
 Diese Informationen werden innert einer Textdatei gespeichert und werden vom Server bei der Verbindung erstellt. Diese Daten sind mit einer für den Client-Computer eindeutigen ID gekennzeichnet. 
@@ -154,4 +160,6 @@ Diese Daten werden vom Webbrowser Lokal gespeichert und beim nächsten Besuch wi
 
 
 ![HTTP-Cookies](/Sonstiges/imgs/HTTP-Cookies.png)
-> Ein Beispiel für ein HTTP Cookie.<br>**Weitere Informationen, welche mehr auf den technischen Aspekt dieser Cookies eingehen, findet man unter [Microsoft-Learning](https://learn.microsoft.com/de-de/aspnet/web-api/overview/advanced/http-cookies)**
+    <br>
+    
+    Ein Beispiel für ein HTTP Cookie.<br>**Weitere Informationen, welche mehr auf den technischen Aspekt dieser Cookies eingehen, findet man unter [Microsoft-Learning](https://learn.microsoft.com/de-de/aspnet/web-api/overview/advanced/http-cookies)**

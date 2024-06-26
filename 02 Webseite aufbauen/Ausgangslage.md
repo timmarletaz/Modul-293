@@ -3,7 +3,7 @@
 
 <br>
 
-## Webseite aufbauen
+## Webseite aufbauen, Formulare anwenden, Medien einsetzen
 <br>
 
 ### E3
@@ -23,6 +23,9 @@
 ### E5
 
 - Ich kenne zudem die verschiedenen HTML-Medienelemente und weiss wie ich diese anzuwenden habe.
+
+<br>
+<br>
 
 ## Kompetenz
 <br>

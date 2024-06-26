@@ -3,18 +3,23 @@
 
 <br>
 
-## Stying & Layout
+## Styling & Layout anwenden
 <br>
 
-- Ich kenn mich bereits ziemlich gut mit dem Styling von Webseiten aus. 
+### E6
+
+- Aufgrund vergangener Projekte kenne ich mich bereits ziemlich gut mit dem Styling von Webseiten aus.
+
+- Auch die verschiedenen Techniken, sowie das Anwenden von (S)CSS-Variablen kenne ich.
+
 
 <br>
 
-- Auch kenn ich die verschiedenen Layouts und wie man diese effizient umsetzt.
+### E7
 
-<br>
+- Ich kenne bereits die verschiedenen Layouts/Displays und wie man diese effizient und responsiv umsetzt.
 
-- Ich weiss wie CSS-Variablen zu verwenden sind und wie man eine Webseite responsiv umsetzt, sodass diese auf allen Geräten "schön" ist.
+- Ich weiss  wie man eine Webseite responsiv umsetzt, sodass diese auf allen Geräten "schön" ist.
 
 <br>
 <br>
