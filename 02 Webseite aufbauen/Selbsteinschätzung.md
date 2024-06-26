@@ -22,4 +22,15 @@
 
 ### E5
 
-- Was die Medien anbelangt, habe ich auf meine [Webseite](https://tim-marletaz.netlify.app) verwiesen.
+- Was die Medien anbelangt, habe ich auf meine [Webseite](https://tim-marletaz.netlify.app#skills) verwiesen, da ich dort verschiedene Medien eingebunden habe.
+
+
+<br>
+<br>
+
+
+# Fazit
+
+<br>
+
+**Ich finde, dass ich alle Aspekte dieses Kompetenzrasters erfüllt habe.**

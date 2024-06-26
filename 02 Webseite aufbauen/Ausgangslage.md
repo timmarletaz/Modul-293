@@ -6,12 +6,23 @@
 ## Webseite aufbauen
 <br>
 
+### E3
+
 - Ich besitze bereits Erfahrung im Bereich Webseitenaufbau.
 
-- Zudem besitze ich die Fähigkeit ein komplexes HTML-Formular aufzubauen und zu gestalten, weil ich in der Vergangenheit dies schon öfter in Webseiten eingebaut habe.
 
 <br>
+
+### E4
+
+- Dank eigener Projekte, besitze ich die Fähigkeit ein komplexes HTML-Formular aufzubauen und zu gestalten.
+
+
 <br>
+
+### E5
+
+- Ich kenne zudem die verschiedenen HTML-Medienelemente und weiss wie ich diese anzuwenden habe.
 
 ## Kompetenz
 <br>

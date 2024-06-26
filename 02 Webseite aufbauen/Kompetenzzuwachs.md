@@ -62,7 +62,7 @@ Element         | Beschreibung          | Beispiel
 <br>
 Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da dieser eine Coole Funktion mit sich bringt (Tipp: klicken Sie auf ein Logo):
 
-<img src="https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg" alt="" usemap="#map1719346753244" style="display:none;">
+<img src="https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg" alt="" usemap="#map1719346753244">
 <map id="map1719346753244" name="map1719346753244"><area shape="rect" coords="114,149,443,483" title="DuckDuckGo" alt="DuckDuckGo" href="https:duckduckgo.com" target="_blank"><area shape="rect" coords="832,146,1164,481" title="Google" alt="Google" href="https:google.com" target="_blank"></map>
 
 <div style="position:relative; height:720px; width:1280px; background:url(https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg) 0 0 no-repeat;"><a style="position:absolute; top:149px; left:114px; width:329px; height:334px;" title="DuckDuckGo" alt="DuckDuckGo" href="https://www.duckduckgo.com" target="_blank"></a><a style="position:absolute; top:146px; left:832px; width:332px; height:335px;" title="Google" alt="Google" href="https://www.google.com" target="_blank"></a></div>
