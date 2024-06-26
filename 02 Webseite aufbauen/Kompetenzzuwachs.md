@@ -102,9 +102,9 @@ Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da die
 # Was habe ich in diesem Kompetenzband gelernt?
 <br>
 
-- In diesem Kompetenzband lernte ich, wie wichtig es ist, einen guten Plan zu haben, bevor man eine Webseite beginnt zu realisieren.
+- In diesem Kompetenzband lernte ich, wie wichtig es ist, einen guten Plan zu haben, bevor man eine Webseite zu realisieren beginnt.
 
-- Der Rest, der im Kompetenzzuwachs erwähnt wurde, habe ich als Zusammenfassung für mich selbst hineingetan, um bei Unklarheiten nachschauen zu können.
+- Der Rest, welcher im Kompetenzzuwachs erwähnt wurde, habe ich als Zusammenfassung für mich selbst geschrieben, um bei Unklarheiten nachschauen zu können.
 
 
 <br>
