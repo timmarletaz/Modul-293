@@ -81,5 +81,22 @@ Bild von [Lightweb](https://lightweb-media.de/webentwicklung/unterschied-css-les
 <br>
 <br>
 
+> Mehr kann man im [Style](https://github.com/timmarletaz/M293-V3) meiner Website sehen.
+
 > Wie man oben erkennen kann, erlaubt einem SCSS das verschachtelte Stylen, während dies in CSS nicht möglich ist.
+
+
+<br>
+<br>
+<br>
+
+
+
+# Was habe ich in diesem Kompetenzband gelernt?
+<br>
+
+- In diesem Kompetenzband habe ich erneut zum Thema SCSS recherchiert, da ich dies sehr lange nicht mehr benutzt habe. Ich konnte somit nochmals das Wichtigste dazu repetieren.
+
+
+
 

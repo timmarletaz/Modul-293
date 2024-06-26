@@ -18,7 +18,7 @@
 
 ### E5
 
-- Ich sehe die Anforderungen dieser Kompetenzen erfüllt, da ich alle wichtigen Elemente im Kompetenzzuwachs angegegeben habe und ich weiss wie diese anzuwenden sind.
+- Ich sehe die Anforderungen dieser Kompetenz erfüllt, da ich alle wichtigen Medien-Elemente im Kompetenzzuwachs angegegeben habe und ich weiss wie diese anzuwenden sind.
 
 
 <br>

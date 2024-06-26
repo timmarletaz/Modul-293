@@ -31,8 +31,18 @@ Entschieden habe ich mich für folgende drei.
 
 <br>
 
+### Webseitenstruktur
 
 <br>
+
+![Struktur](/Sonstiges/imgs/structure.png)
+
+
+<br>
+
+<br>
+<br>
+
 
 # Formulare (E4)
 
@@ -41,16 +51,16 @@ Entschieden habe ich mich für folgende drei.
 
 ### Die wichtigsten Elemente
 
-Element         | Beschreibung          | Beispiel
-----------------|-----------------------| ----
-`<input>`       | `<input>` ist eine Eingabefeld, für all mögliche zeichenbasierte Datentypen. Diese können mit einem "type" Parameter spezifiziert werden.      | <input placeholder="Das ist ein Input für alle Zeichen"><input type="number" placeholder="Dies ist ein Input für Zahlen"><input type="submit">
-`<textarea></textarea>`     | `<textarea>` wird verwendet um grössere Texteingaben zu ermöglichen.     | <textarea style="resize:vertical; min-height: 30px; max-height: 75px;" placeholder="Dies ist eine Textarea"></textarea>
-`<label></label>`       | Mit `<label for="[element-id]">Text</label>` lässt sich ein Titel für ein Form-Element erstellten. | <label for="input1">Hallo</label><input id="input1" placeholder="klicken sie auf den Text">
-`<select><option></option></select>` | Dieser Tag wird verwendet um eine Dropdown-Liste anzuzeigen. Man kann auch sogenannte `<optgroups></optgroups>` einbinden. | <select><optgroup label="1-2 Option"><option>1. Option</option><option>2. Option</option></optgroup></select>
-`<datalist></datalist>` | Das `<datalist>`-Element ist ein Kompromiss zwischen input und select. | **Datalist kann in Markdown nicht angezeigt werden**<br>Beispiel: [W3schools](https://www.w3schools.com/tags/tag_datalist.asp)
-`<button></button>` | Um "custom" submit-buttons zu erstellen, kann man den `<button>`-Tag verwenden und diesem einen `type="submit"` verpassen. | <button type="submit">Hier kommt dein Text</button>
-`<input type="checkbox"></input>` | Checkbox wird verwendent um eine einzelne, "ankreuzbare" Option darzustellen. | <input type="checkbox">Option</checkbox>
-`<input type="radio"><input>` | Radiobuttons sind ähnlich wie checkboxen, nur dass diese nicht mehr abgewählt werden können. | <label for="radio">Newsletter<label><input type="radio" id="radio">
+Element         | Beschreibung          
+----------------|-----------------------| 
+`<input>`       | `<input>` ist eine Eingabefeld, für all mögliche zeichenbasierte Datentypen. Diese können mit einem "type" Parameter spezifiziert werden.
+`<textarea></textarea>`     | `<textarea>` wird verwendet um grössere Texteingaben zu ermöglichen.
+`<label></label>`       | Mit `<label for="[element-id]">Text</label>` lässt sich ein Titel für ein Form-Element erstellten. 
+`<select><option></option></select>` | Dieser Tag wird verwendet um eine Dropdown-Liste anzuzeigen. Man kann auch sogenannte `<optgroups></optgroups>` einbinden. 
+`<datalist></datalist>` | Das `<datalist>`-Element ist ein Kompromiss zwischen input und select.
+`<button></button>` | Um "custom" submit-buttons zu erstellen, kann man den `<button>`-Tag verwenden und diesem einen `type="submit"` verpassen.
+`<input type="checkbox"></input>` | Checkbox wird verwendent um eine einzelne, "ankreuzbare" Option darzustellen.
+`<input type="radio"><input>` | Radiobuttons sind ähnlich wie checkboxen, nur dass diese nicht mehr abgewählt werden können.
 
 
 <br>
@@ -65,15 +75,76 @@ Den Code zur gesamten Website findet man [hier](https://github.com/timmarletaz/M
 
 ### E4
 
-    Hier kommt der Code
+    <form method="POST" action="https://formcarry.com/s/vnBDu4KXI6Z"
+                enctype="multipart/form-data">
+
+                <div class="formContainer">
+
+                    <label for="Vorname">Vorname</label>
+                    <input id="Vorname" name="Vorname" type="text"
+                        maxlength="20" required
+                        title="Ihr Name muss aus einem Gross- und mind. 2 Kleinbuchstaben bestehen"
+                        placeholder="Ihr Vorname...">
+
+                    <label for="Nachname">Nachname</label>
+                    <input id="Nachname" name="Nachname" type="text"
+                        maxlength="30" required
+                        title="Ihr Name muss aus einem Gross- und mind. 2 Kleinbuchstaben bestehen"
+                        placeholder="Ihr Nachname...">
+
+                    <label for="Land">Land</label>
+                    <select id="Land" name="Land">
+                        <option selected>Wählen Sie ihr Land</option>
+                        <optgroup label="Nachbarländer der Schweiz">
+                            <option>Schweiz</option>
+                            <option>Deutschland</option>
+                            <option>Österreich</option>
+                            <option>Italien</option>
+                            <option>Frankreich</option>
+                            <option>Fürstentum Lichtenstein</option>
+                        </optgroup>
+                        <optgroup label="Andere europäische Länder">
+                            <option>Belgien</option>
+                            <option>Luxemburg</option>
+                            <option>Niederlande</option>
+                        </optgroup>
+                    </select>
+
+                    <label for="TelNum">Telefonnummer</label>
+                    <input id="TelNum" type="tel" name="TelNum">
+
+                    <label for="message">Nachricht</label>
+                    <textarea id="message" name="message" maxlength="300"
+                        required></textarea>
+
+                    <label for="file" class="file"><i
+                            class="fa-solid fa-cloud-arrow-up"></i>
+                        Dateien</label>
+                    <input type="file" id="file" name="file" hidden
+                        accept=".doc, .docx, .txt, .pdf">
+                    <span id="fileText">Keine Dateien ausgewählt</span>
+
+                    <button type="submit" id="submit" name="submit">Senden <i
+                            class="fa-solid fa-paper-plane"></i></button>
+
+                </div>
+
+            </form>
+
+<br>
+
+### Ergebnis
+
+<br>
+
+![Resultat](/Sonstiges/imgs/Form.png)
 
 <br>
 <br>
 <br>
-
-
 <br>
 <br>
+
 
 # Medien (E5)
 
