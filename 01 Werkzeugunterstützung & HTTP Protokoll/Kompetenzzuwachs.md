@@ -191,8 +191,10 @@ Dafür gibt es 2 Optionen:
 **application/x-www-form-urlencoded**: <br>
 Dies ist der Standardwert. Hierbei werden die Formulardaten in der URL-codierten Zeichenfolge an den Server gesendet. Dies bedeutet, dass Leerzeichen als + und bestimmte Zeichen als %xy (hexadezimal codiert) dargestellt werden. Dies ist z.B. bei Google der Fall:
 
-![GoogleSuche](/Sonstiges/imgs/enctype.png)
+<br>
 
+![GoogleSuche](/Sonstiges/imgs/enctype.png)
+> Im Bild kann man erkennen, dass in der URL (Uniform Ressource Locator) die verschiedenen Begriffe mit + aneinandergehängt werden.
 
 
 
