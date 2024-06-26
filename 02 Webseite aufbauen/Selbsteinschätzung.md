@@ -21,6 +21,9 @@
 - Ich sehe die Anforderungen dieser Kompetenzen erfüllt, da ich alle wichtigen Elemente im Kompetenzzuwachs angegegeben habe und ich weiss wie diese anzuwenden sind.
 
 
+<br>
+<br>
+<br>
 
 
 # Fazit

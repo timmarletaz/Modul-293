@@ -4,7 +4,7 @@
 <br>
 
 
-## Technische Grundlagen (E2)
+# Technische Grundlagen (E2)
 <br>
 
 ![Technische Grundlagen](/Sonstiges/imgs/TechnischeGrundlagen.jpg)
@@ -26,13 +26,13 @@ Es werden allerdings auch viele andere Dateien mitgegeben (z.B. stylesheets oder
 ![Bild](/Sonstiges/imgs/baloisecom.png)
 <br>
 
-    Hier sieht man alle Dateien die bei [Baloise.com](https://www.baloise.com) geladen werden.
+Hier sieht man alle Dateien die bei [Baloise.com](https://www.baloise.com) geladen werden.
 
 
 
 <br><br>
 
-## GET und POST
+# GET und POST
 
 <br>
 
@@ -40,8 +40,7 @@ GET und POST sind HTTP Methoden, welche für die Kommunikation z.B. mit einem Se
 
 <br>
 
-### GET
-<hr>
+## GET
 
 <br>
 
@@ -58,16 +57,17 @@ Wenn man z.B. an die URL einen Such-Parameter anhängt, z.B. ``https://www.bbzbl
 
 <br>
 
-### POST
-<hr>
+## POST
 
 Die POST-Methode ist so ziemlich das Gegenteil der GET-Methode, denn anstatt Ressourcen vom Server zu holen, wird bei POST etwas auf den Server "geschrieben". Dies findet man z.B. bei einem Kontaktformular, da dort die Informationen auf dem Server gespeichert werden sollen, damit man sie auch auswerten kann.
 
 
 <br>
 <br>
+<br>
+<br>
 
-## Request und Response
+# Request und Response
 
 <br>
 
@@ -90,10 +90,12 @@ Die Response ist die Antwort auf ein Request. In der Response wird dann meistens
 
 
 <br>
-
+<br>
+<br>
 <br>
 
-## Header und Body
+
+#  Header und Body
 
 <br>
 
@@ -101,15 +103,15 @@ Die Nachrichten zwischen Server und Client oder anderen Komponenten, werden imme
 
 <br>
 
-### Header
-<hr>
+## Header
+
 
 Header sind Teil des Anfrage- und Antwortprozesses. Der Header enthält dabei z.B. Metadaten. Diese sagen etwas über den Inhalt der Nachricht aus (um was für einen Typ es sich handelt). Ein bekanntes Beispiel wäre z.B. ``CORS`` (Cross Origin Ressource Sharing).
 
 <br>
 
-### Body
-<hr>
+## Body
+
 
 <br>
 
@@ -122,8 +124,10 @@ Im Body befindet sich der eigentliche Inhalt der Nachricht. Wie bereits erwähnt
 
 <br>
 <br>
+<br>
+<br>
 
-## Caching 
+# Caching 
 <br>
 Als Caching bezeichnet man den Prozess, bei dem geladene Ressourcen (Dateien) im Cache, einem temporären Speicherort, abgelegt werden, dass beim nächsten Zugriff die Ressourcen schneller geladen werden können, da nicht alle Informationen beim Server abgerufen werden müssen - Die Ladezeit wird dadurch verkürzt.
 Die Ressource welche im Cache abgespeichert werden, werden mit einer TTL (Time To Live) versehen, dass heisst, wie lange sie dort bleiben. 
@@ -133,8 +137,10 @@ Die Ressource welche im Cache abgespeichert werden, werden mit einer TTL (Time T
 
 <br>
 <br>
+<br>
+<br>
 
-## Cookies
+# Cookies
 <br>
 
 ![Cookies](/Sonstiges/imgs/Cookies.png)
@@ -174,7 +180,9 @@ Ein Beispiel für ein HTTP Cookie.<br>Weitere Informationen, welche mehr auf den
 # Code
 <br>
 
-    <form method="POST" action="https://formcarry.com/s/vnBDu4KXI6Z" enctype="multipart/form-data"></form>
+    <form method="POST" action="https://formcarry.com/s/vnBDu4KXI6Z" enctype="multipart/form-data">
+    [ Inhalt ]
+    </form>
 
 In diesem Code aus meiner Webseite kann man sehen, dass ich die method "Post" verwendet habe, da in diesem Fall die Daten auf den Server geschrieben werden sollen.
 Das action Attribut sagt, was passiert wenn das Formular abgeschickt wird. Der "enctype" (encryption type) was mir neu. Dieser bestimmt, wie die Daten abgeschickt werden sollen.
@@ -198,6 +206,7 @@ Dies ist der Standardwert. Hierbei werden die Formulardaten in der URL-codierten
 
 
 
+<br>
 <br>
 <br>
 <br>

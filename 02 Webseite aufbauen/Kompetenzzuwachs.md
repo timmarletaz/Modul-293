@@ -2,8 +2,11 @@
 
 
 <br>
+<br>
+<br>
 
-## Webseitenplanung (E3)
+
+# Webseitenplanung (E3)
 
 - Ich habe, bevor ich angefangen habe meine Webseite zu programmieren, ein Konzept für die Landing Page erstellt, sodass ich anschliessend nach diesem die Webseite erstellen kann und mir keine Gedanken über das Design, etc. machen muss.
 
@@ -30,7 +33,7 @@ Anschliessend entschied ich mich für 3 Farben, welche meiner Meinung nach am be
 
 <br>
 
-## Formulare (E4)
+# Formulare (E4)
 
 
 <br>
@@ -51,11 +54,27 @@ Element         | Beschreibung          | Beispiel
 
 <br>
 
+## Code (E4)
 
 <br>
 
+Den Code zur gesamten Website findet man [hier](https://github.com/timmarletaz/M293-V3)
 
-## Medien (E5)
+<br>
+
+### E4
+
+    Hier kommt der Code
+
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+
+# Medien (E5)
 
 <br>
 
@@ -73,11 +92,11 @@ Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da die
 
  > Weitere Informationen zu Multimedia-Tags findet man auf folgender [Webseite](https://www.almabetter.com/bytes/tutorials/html/multimedia-in-html)
 
+<br>
+<br>
+<br>
 
 
-<br>
-<br>
-<br>
 
 # Was habe ich in diesem Kompetenzband gelernt?
 <br>
