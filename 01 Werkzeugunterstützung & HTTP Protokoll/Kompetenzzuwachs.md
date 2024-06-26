@@ -162,4 +162,52 @@ Diese Daten werden vom Webbrowser Lokal gespeichert und beim nächsten Besuch wi
 ![HTTP-Cookies](/Sonstiges/imgs/HTTP-Cookies.png)
     <br>
     
-    Ein Beispiel für ein HTTP Cookie.<br>**Weitere Informationen, welche mehr auf den technischen Aspekt dieser Cookies eingehen, findet man unter [Microsoft-Learning](https://learn.microsoft.com/de-de/aspnet/web-api/overview/advanced/http-cookies)**
+Ein Beispiel für ein HTTP Cookie.<br>Weitere Informationen, welche mehr auf den technischen Aspekt dieser Cookies eingehen, findet man unter [Microsoft-Learning](https://learn.microsoft.com/de-de/aspnet/web-api/overview/advanced/http-cookies)
+
+
+
+
+<br>
+<br>
+<br>
+
+# Code
+<br>
+
+    <form method="POST" action="https://formcarry.com/s/vnBDu4KXI6Z" enctype="multipart/form-data"></form>
+
+In diesem Code aus meiner Webseite kann man sehen, dass ich die method "Post" verwendet habe, da in diesem Fall die Daten auf den Server geschrieben werden sollen.
+Das action Attribut sagt, was passiert wenn das Formular abgeschickt wird. Der "enctype" (encryption type) was mir neu. Dieser bestimmt, wie die Daten abgeschickt werden sollen.
+<br>
+Dafür gibt es 2 Optionen:
+
+<br>
+
+**multipart/form-data**: 
+<br>Die Daten werden in mehrere Teile aufgeteilt und zusammen mit den Metadaten für jeden Teil einzeln übermittelt. Dies ist erforderlich, wenn das Formular die input-Typen file, image oder submit enthält.
+
+<br>
+
+**application/x-www-form-urlencoded**: <br>
+Dies ist der Standardwert. Hierbei werden die Formulardaten in der URL-codierten Zeichenfolge an den Server gesendet. Dies bedeutet, dass Leerzeichen als + und bestimmte Zeichen als %xy (hexadezimal codiert) dargestellt werden. Dies ist z.B. bei Google der Fall:
+
+![GoogleSuche](/Sonstiges/imgs/enctype.png)
+
+
+
+
+<br>
+<br>
+<br>
+
+# Was habe ich in diesem Kompetenzband gelernt?
+<br>
+
+- In diesem Kompetenzband fand ich heraus, was der wesentliche Unterschied zwischen Caching und Cookies ist.
+- Zudem konnte ich die Basics des Internets sowie die Unterschiede zwischen GET und POST repetieren.
+- Auch das enctype-Attribut habe ich kennengelernt.
+
+
+<br>
+<br>
+<br>

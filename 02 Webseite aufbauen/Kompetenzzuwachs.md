@@ -73,3 +73,21 @@ Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da die
 
  > Weitere Informationen zu Multimedia-Tags findet man auf folgender [Webseite](https://www.almabetter.com/bytes/tutorials/html/multimedia-in-html)
 
+
+
+<br>
+<br>
+<br>
+
+# Was habe ich in diesem Kompetenzband gelernt?
+<br>
+
+- In diesem Kompetenzband lernte ich, wie wichtig es ist, einen guten Plan zu haben, bevor man eine Webseite beginnt zu realisieren.
+
+- Der Rest, der im Kompetenzzuwachs erwähnt wurde, habe ich als Zusammenfassung für mich selbst hineingetan, um bei Unklarheiten nachschauen zu können.
+
+
+<br>
+<br>
+<br>
+

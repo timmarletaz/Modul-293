@@ -10,7 +10,7 @@
 
 - Aufgrund vergangener Projekte kenne ich mich bereits ziemlich gut mit dem Styling von Webseiten aus.
 
-- Auch die verschiedenen Techniken, sowie das Anwenden von (S)CSS-Variablen kenne ich.
+- Das verwenden von CSS-Variablen kenne ich nicht, da ich dies nur in SCSS gemacht habe.
 
 
 <br>
