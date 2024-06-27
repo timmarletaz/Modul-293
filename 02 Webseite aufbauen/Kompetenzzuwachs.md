@@ -23,6 +23,9 @@ Entschieden habe ich mich für folgende drei.
 ![Farbkonzept](/Sonstiges/imgs/Farbkonzept.png)
 
 
+<br>
+
+Als Schriftart habe ich mich für [Helvetica](https://de.wikipedia.org/wiki/Helvetica_%28Schriftart%29) entschieden, da diese websafe ist und, meiner Meinung nach, am besten aussieht.
 
 <br>
 <br>
