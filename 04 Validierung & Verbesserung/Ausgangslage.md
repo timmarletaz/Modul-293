@@ -10,6 +10,8 @@
 
 - Mit der Suchmaschinenoptimierung habe ich mich noch nie beschäftigt.
 
+- Mit SEO und Lighthouse kenne ich mich noch nicht sehr gut aus.
+
 <br>
 <br>
 

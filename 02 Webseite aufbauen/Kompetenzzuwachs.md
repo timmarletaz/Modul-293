@@ -1,9 +1,3 @@
-# Kompetenzzuwachs
-
-
-<br>
-<br>
-<br>
 
 
 # Webseitenplanung (E3)
@@ -29,16 +23,6 @@ Entschieden habe ich mich für folgende drei.
 ![Farbkonzept](/Sonstiges/imgs/Farbkonzept.png)
 
 
-<br>
-
-### Webseitenstruktur
-
-<br>
-
-![Struktur](/Sonstiges/imgs/structure.png)
-
-
-<br>
 
 <br>
 <br>
@@ -135,8 +119,6 @@ Den Code zur gesamten Website findet man [hier](https://github.com/timmarletaz/M
 
 ### Ergebnis
 
-<br>
-
 ![Resultat](/Sonstiges/imgs/Form.png)
 
 <br>
@@ -150,30 +132,52 @@ Den Code zur gesamten Website findet man [hier](https://github.com/timmarletaz/M
 
 <br>
 
-### Map-Tag
-<br>
-Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da dieser eine Coole Funktion mit sich bringt (Tipp: klicken Sie auf ein Logo):
+In HTML kann man über verschiedene Tags Medien in eine Webseite einbauen.
+Auf folgenden Webseiten kann man mehr zu den verschiedenen in HTML herausfinden: <br> [GeeksForGeeks](https://www.geeksforgeeks.org/what-are-the-media-element-tags-introduced-by-html5/) <br>
+[Almabetter](https://www.almabetter.com/bytes/tutorials/html/multimedia-in-html)
 
-<img src="https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg" alt="" usemap="#map1719346753244">
-<map id="map1719346753244" name="map1719346753244"><area shape="rect" coords="114,149,443,483" title="DuckDuckGo" alt="DuckDuckGo" href="https:duckduckgo.com" target="_blank"><area shape="rect" coords="832,146,1164,481" title="Google" alt="Google" href="https:google.com" target="_blank"></map>
+<br>
+<br>
+
+## Map-Tag
+
+Eine meiner lieblings Medien-Elementen in HTML ist definitiv der Map-Tag, da dieser die Funktion mit sich bringt Elemente in einem Bild zu "mappen". Man kann anschliessend entscheiden, was für eine Aktion bei einem Klick ausgeführt werden soll.
+
+<br>
+<br>
+
+
+ ## Code
+
+    <img src="https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg" alt="" usemap="#map1">
+    <map id="map1" name="map1"><area shape="rect" coords="114,149,443,483" title="DuckDuckGo" alt="DuckDuckGo" href="https:duckduckgo.com" target="_blank"><area shape="rect" coords="832,146,1164,481" title="Google" alt="Google" href="https:google.com" target="_blank"></map>
+
+    <div style="position:relative; height:720px; width:1280px; background:url(https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg) 0 0 no-repeat;"><a style="position:absolute; top:149px; left:114px; width:329px; height:334px;" title="DuckDuckGo" alt="DuckDuckGo" href="https://www.duckduckgo.com" target="_blank"></a><a style="position:absolute; top:146px; left:832px; width:332px; height:335px;" title="Google" alt="Google" href="https://www.google.com" target="_blank"></a></div>
+
+
+<br>
+
+### Ergebnis
+
+<img src="https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg" alt="" usemap="#map1" style="display: none">
+<map id="map1" name="map1"><area shape="rect" coords="114,149,443,483" title="DuckDuckGo" alt="DuckDuckGo" href="https:duckduckgo.com" target="_blank"><area shape="rect" coords="832,146,1164,481" title="Google" alt="Google" href="https:google.com" target="_blank"></map>
 
 <div style="position:relative; height:720px; width:1280px; background:url(https://i.ytimg.com/vi/o0wfgrL07oI/maxresdefault.jpg) 0 0 no-repeat;"><a style="position:absolute; top:149px; left:114px; width:329px; height:334px;" title="DuckDuckGo" alt="DuckDuckGo" href="https://www.duckduckgo.com" target="_blank"></a><a style="position:absolute; top:146px; left:832px; width:332px; height:335px;" title="Google" alt="Google" href="https://www.google.com" target="_blank"></a></div>
 
-<br>
-<br>
-
- > Weitere Informationen zu Multimedia-Tags findet man auf folgender [Webseite](https://www.almabetter.com/bytes/tutorials/html/multimedia-in-html)
+> Es kann sein, dass dies nicht angezeigt werden kann, für eine Demo besuchen sie [diese Webseite](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_map2)
 
 <br>
 <br>
 <br>
-
+<br>
 
 
 # Was habe ich in diesem Kompetenzband gelernt?
 <br>
 
 - In diesem Kompetenzband lernte ich, wie wichtig es ist, einen guten Plan zu haben, bevor man eine Webseite zu realisieren beginnt.
+
+- Zudem lernte ich den Map-Tag kennen.
 
 - Der Rest, welcher im Kompetenzzuwachs erwähnt wurde, habe ich als Zusammenfassung für mich selbst geschrieben, um bei Unklarheiten nachschauen zu können.
 

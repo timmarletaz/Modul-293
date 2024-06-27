@@ -1,8 +1,3 @@
-# Kompetenzzuwachs
-
-
-<br>
-
 
 # Technische Grundlagen (E2)
 <br>

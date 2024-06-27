@@ -6,21 +6,10 @@
 ## Webseite aufbauen, Formulare anwenden, Medien einsetzen
 <br>
 
-### E3
 
 - Ich besitze bereits Erfahrung im Bereich Webseitenaufbau.
 
-
-<br>
-
-### E4
-
 - Dank eigener Projekte, besitze ich die Fähigkeit ein komplexes HTML-Formular aufzubauen und zu gestalten.
-
-
-<br>
-
-### E5
 
 - Ich kenne zudem die verschiedenen HTML-Medienelemente und weiss wie ich diese anzuwenden habe.
 
