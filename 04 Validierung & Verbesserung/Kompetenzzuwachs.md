@@ -5,11 +5,11 @@
 ![Slow loading website](https://media0.giphy.com/media/cmNXhHqqK5HhTHUK4g/giphy.gif?cid=6c09b952zop92gmmjlz3une4c3h6gq3ebcgir280q2bwbq2w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
-> Wer kennt es nicht, man möchte eine Webseite besuchen, doch diese lädt ewig.<br>
+> Wer kennt es nicht? Man möchte eine Webseite besuchen, doch diese lädt ewig.<br>
 Meistens ist man genervt und sucht sich irgend eine andere Webseite.
 
 
-**Genau solche Sachen kann man als Entwickler mit folgenden Punkten vermeiden.**
+**Genau das kann man als Entwickler mit folgenden Punkten vermeiden.**
 
 <br>
 <br>
@@ -157,7 +157,7 @@ Es gibt einem Feedback über die Webseite und listet auf, was man noch verbesser
 
 Als ich Lighthouse das erste Mal über meine Webseite laufen liess, war das Ergebnis ziemlich schlecht.
 
-![Lighhouse-Ranking]()
+![Lighhouse-Ranking](/Sonstiges/imgs/beforeLighthouse.png)
 
 
 
