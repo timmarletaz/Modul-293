@@ -216,4 +216,4 @@ Hier sind einige davon:
 
 - Ich habe in diesem Kompetenzband gelernt, wie wichtig es ist, die richtigen Dateiformate zu verwenden, da dies einen grossen Unterschied machen kann.
 
-- Zudem habe ich gelernt wie man richtig SEO betreibt und was man dabei beachten sollte. Ich habe zwar die Meta-Tags gekennt, jedoch nicht gewusst, dass diese so einen grossen Einfluss haben können.
+- Zudem habe ich gelernt wie man richtig SEO betreibt und was man dabei beachten sollte. Ich habe zwar die Meta-Tags gekannt, jedoch nicht gewusst, dass diese so einen grossen Einfluss haben können.
