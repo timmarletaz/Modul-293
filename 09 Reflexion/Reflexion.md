@@ -78,9 +78,7 @@
 
 # Fazit
 
-> Im Grossen und Ganzen habe ich meine Vorkenntnisse für das Modul 293, meiner Meinung nach, gut eingeschätzt. Auch wenn ich gewisse Dinge bereits wusste, konnte ich bei jedem Kompetenzband etwas neues lernen und meine bisherigen Kenntnisse prüfen und erweitern.
-    
-    Das Modul 293 empfand ich als sehr spannend und interessant.
+> Im Grossen und Ganzen habe ich meine Vorkenntnisse für das Modul 293, meiner Meinung nach, gut eingeschätzt. Auch wenn ich gewisse Dinge bereits wusste, konnte ich bei jedem Kompetenzband etwas neues lernen und meine bisherigen Kenntnisse prüfen und erweitern. <br>Das Modul 293 empfand ich als sehr spannend und interessant.
 
 
 
