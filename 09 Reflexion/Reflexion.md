@@ -11,7 +11,7 @@
 
 - Ich habe geschrieben, dass ich die Methoden POST und GET verstehe, jedoch konnte ich noch sehr viel dazu lernen, was ich vor dem Modul nicht wusste.
 
-- Auch bei den Cookies und dem Caching habe ich in der [Ausgangslage](/01%20Werkzeugunterstützung%20&%20HTTP%20Protokoll/Ausgangslage.md) geschrieben, dass ich es bereits verstehe, aber auch dort konnte ich noch sehr viel dazulernen.
+- Auch bei den Cookies und dem Caching habe ich in der [Ausgangslage](/01%20Werkzeugunterstützung%20&%20HTTP%20Protokoll/Ausgangslage.md) geschrieben, dass ich es bereits verstehe. Aber auch dort konnte ich noch sehr viel dazulernen.
 
 
 <br>
